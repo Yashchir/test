@@ -1,0 +1,9 @@
+{
+  "name": "PokerMaster Quiz",
+  "bundleId": "com.pokermaster.academy.ios",
+  "version": "1.0.0",
+  "description": "Професійна вікторина про покер та карткові ігри з системою прогресії, академією та інтеграцією Firebase.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
